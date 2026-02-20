@@ -1,0 +1,2 @@
+[console_scripts]
+probability-lab = probability_lab.__main__:main

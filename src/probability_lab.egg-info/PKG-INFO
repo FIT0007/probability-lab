@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: probability-lab
+Version: 0.1.0
+Summary: Dice reroll simulation
+Requires-Python: >=3.10
+Requires-Dist: matplotlib
